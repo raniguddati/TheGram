@@ -1,0 +1,777 @@
+[{
+  "_id": {
+    "$oid": "661bcf12558117f47194f81e"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "661bcc83558117f47194f6bc"
+  },
+  "text": "hello",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-14T12:41:54.512Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bcf19558117f47194f82f"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "hi",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-14T12:42:01.829Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bf05ae8b9b11a552cca88"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "bleh",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-14T15:03:54.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661bf063e8b9b11a552cca8d"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "661bcc83558117f47194f6bc"
+  },
+  "text": "bleh",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-14T15:04:03.854Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d51dc756de373633176c6"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "661bcc83558117f47194f6bc"
+  },
+  "text": "hello",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T16:12:12.390Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d51f3756de373633176d1"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "661bcc83558117f47194f6bc"
+  },
+  "text": "hi",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T16:12:35.480Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d520d756de373633176ee"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "hi",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T16:13:01.991Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d5217756de373633176ff"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "661bcc83558117f47194f6bc"
+  },
+  "text": "no good",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T16:13:11.438Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d522a756de37363317704"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "661bcc83558117f47194f6bc"
+  },
+  "text": "",
+  "seen": true,
+  "img": "https://res.cloudinary.com/dig0qmfzo/image/upload/v1713197609/fduze3j6scrrxxzncnqh.jpg",
+  "createdAt": {
+    "$date": "2024-04-15T16:13:30.126Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d5fc8756de37363317a2a"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "noice",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T17:11:36.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d5fec756de37363317a5b"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "c",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T17:12:12.511Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d6343756de37363317c06"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "real",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T17:26:27.033Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d6821756de37363317c35"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "not real",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T17:47:13.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d68cb756de37363317c40"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "what",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T17:50:03.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661dae2414313660017e41cc"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "661bcc83558117f47194f6bc"
+  },
+  "text": "ok'",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T22:45:56.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661daf1314313660017e41e9"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "not ok",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T22:49:55.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661daf1914313660017e41ee"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "661bcc83558117f47194f6bc"
+  },
+  "text": "bleh",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T22:50:01.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661db894f4a9cf955edab6fb"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "661bcc83558117f47194f6bc"
+  },
+  "text": "say",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T23:30:28.356Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661db8a4f4a9cf955edab70c"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "no",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-15T23:30:44.910Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:05.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661e1c95870599925953ecfa"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "661bcc83558117f47194f6bc"
+  },
+  "text": "oui",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-16T06:37:09.802Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:15.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661e1c9f870599925953ed04"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "yes",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-16T06:37:19.146Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:37:19.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661e1d98870599925953ed0b"
+  },
+  "conversationId": {
+    "$oid": "661bcf12558117f47194f81c"
+  },
+  "sender": {
+    "$oid": "661bcc83558117f47194f6bc"
+  },
+  "text": "lessgo",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-16T06:41:28.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T06:41:29.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661ec5412b24770049efbb5f"
+  },
+  "conversationId": {
+    "$oid": "661ec5412b24770049efbb5d"
+  },
+  "sender": {
+    "$oid": "661e21c8dce303ccd2aad89b"
+  },
+  "text": "hello",
+  "seen": false,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-16T18:36:49.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T18:36:49.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f64f8f0348626331041a5"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "bleh",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-17T05:58:16.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T05:58:27.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6507f0348626331041b2"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "661e206ebdd62660d936fabb"
+  },
+  "text": "bleh back",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-17T05:58:31.570Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T05:59:03.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f653ff0348626331041e4"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "661e206ebdd62660d936fabb"
+  },
+  "text": "ok",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-17T05:59:27.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T05:59:28.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6a43d0e38de16af8b352"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "hello",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-17T06:20:51.089Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T06:20:53.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6a49d0e38de16af8b35c"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "661e206ebdd62660d936fabb"
+  },
+  "text": "hola",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-17T06:20:57.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T06:20:58.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6e7dd0e38de16af8b439"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "661e206ebdd62660d936fabb"
+  },
+  "text": "no",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-17T06:38:53.950Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T06:38:54.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6eb0d0e38de16af8b44c"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "yes",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-17T06:39:44.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T06:41:22.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6f5ad0e38de16af8b47c"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "please",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-17T06:42:34.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T06:47:32.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f708bd0e38de16af8b4a7"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "661e206ebdd62660d936fabb"
+  },
+  "text": "nope",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-17T06:47:39.987Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T06:47:40.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f7091d0e38de16af8b4ae"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "yup",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-17T06:47:45.824Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T03:56:46.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66209a41e9c35f3f2a298465"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "hello ",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-18T03:57:53.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T03:57:54.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66209a5ce9c35f3f2a29846c"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "hello again",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-18T03:58:20.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T03:58:21.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66209a72e9c35f3f2a298473"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "blah",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-18T03:58:42.239Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T03:58:42.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66209a78e9c35f3f2a29847a"
+  },
+  "conversationId": {
+    "$oid": "661f64f7f0348626331041a3"
+  },
+  "sender": {
+    "$oid": "66185de67d4490f5d686b66c"
+  },
+  "text": "jjj",
+  "seen": true,
+  "img": "",
+  "createdAt": {
+    "$date": "2024-04-18T03:58:48.975Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T03:58:49.549Z"
+  },
+  "__v": 0
+}]
